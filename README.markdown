@@ -8,7 +8,7 @@ This is heavily based off Tom Preston-Werner's blog at https://github.com/mojomb
 License
 =======
 
-The following directories and their contents are Copyright Tom Preston-Werner. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright William David Hunt. You may not reuse anything therein without my permission:
 
 * _posts/
 * images/
