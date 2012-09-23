@@ -208,12 +208,19 @@ ul.posts {
     color: #4c1d2a;
 }
 
-.cv-item ul {
+#cv ul {
   margin-left: 8px;
 }
 
-.cv-item li {
-    font-size: 0.875em;
+#cv li {
     list-style: none outside none;
 }
 
+.cv-details {
+    font-size: 0.8em;
+}
+
+#cv h2 {
+    margin-bottom: 4px;
+    border-bottom: 1px solid #000000;
+}
