@@ -26,9 +26,7 @@ Programmer at <a href='therealbuzzgroup.com'>The Realbuzz Group</a> <span class=
 Personal Projects
 ------
 
-I participated in Ludum Dare, an online 48 hour game development competition. Within that short time frame I developed a flash game in Actionscript 3.0 called 
-
-[Ghosts and Gemstones](http://www.kongregate.com/games/underscorewdh/ghosts-and-gemstones) that was placed 14th out of 242 entries. 
+I participated in Ludum Dare, an online 48 hour game development competition. Within that short time frame I developed a flash game in Actionscript 3.0 called [Ghosts and Gemstones](http://www.kongregate.com/games/underscorewdh/ghosts-and-gemstones) that was placed 14th out of 242 entries. 
 
 Skills
 -----
