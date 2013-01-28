@@ -40,7 +40,7 @@ Skills
 
 Education
 ------
-Manchester Metropolitan University <span class="cv-date">July 2011 - Now</span>
+Manchester Metropolitan University <span class="cv-date">2008 - 2011</span>
 
  * BSc Computer Science, 2:2
    * Final Year Project was a program that used genetic algorithms to generate flocking behaviour
