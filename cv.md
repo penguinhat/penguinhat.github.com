@@ -9,7 +9,7 @@ Overview
 I am a polite, punctual and creative software developer who is currently working for a online publishing company called <a href='therealbuzzgroup.com'>The Realbuzz Group</a> that specialise in creating content rich niche social networks using Django. I am looking for work that will enable me to improve my programming abilities and make a positive difference to the company that I work for.
 
 
-I have one year of professional experience with Python and Django, during which I was instrumental in developing and maintaining a wedding themed social network called <a href='getwed.com'>getwed.com</a> and worked a multitude of internal projects for The Realbuzz Group's main site, <a href='realbuzz.com'>realbuzz.com</a>.
+I have two years of professional experience with Python and Django, during which I was instrumental in developing and maintaining a wedding themed social network called <a href='getwed.com'>getwed.com</a> and worked a multitude of internal projects for The Realbuzz Group's main site, <a href='realbuzz.com'>realbuzz.com</a>.
 
 I have also used Java and C# and Actionscript 3 during my studies at the Manchester Metropolitan University.
 
