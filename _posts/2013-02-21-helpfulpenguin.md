@@ -37,7 +37,7 @@ Linode are a great hosting company. Their StackScrips made setting up the a secu
 
 ### Using Bootstrap
 
-Bootstrap looks nice and tidy and as a bonus the site really works on an iPad. I'd also followed most of the instructions in [this article][design] which made the site look less like it was made by a design illiterate developer. 
+Bootstrap allowed me to produce a clean design quickly and as a bonus the site works well on an iPad. I'd also followed most of the instructions in [this article][design] which made the site look less like it was made by a design illiterate developer. 
 
 ## Things that could be improved on
 
