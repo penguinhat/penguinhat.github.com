@@ -14,3 +14,7 @@ The following directories and their contents are Copyright William David Hunt. Y
 * images/
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
+
+The background image is [Subtle Grey][sg] by Haris Šumić.
+
+[sg]: http://subtlepatterns.com/subtle-grey/
