@@ -19,22 +19,24 @@ Professional Experience
 Programmer at <a href='therealbuzzgroup.com'>The Realbuzz Group</a> <span class="cv-date">July 2011 - Now</span>
 
  * Developed planning tool and inspiration gallery features on <a href='getwed.com'>getwed.com</a>
- * Scaled up email notification system on <a href='realbuzz.com'>realbuzz.com</a> using Celery
+ * Scaled up email notification system on <a href='realbuzz.com'>realbuzz.com</a> to handle high loads caused by celebirty blogs
  * Maintained internal analytics web application
- * Renovated on business facing project
+ 
 
 Personal Projects
 ------
+
+I created [helpfulpenguin.com](http://helpfulpenguin.com), a webapp that creates redirects to make long urls easy to say.
 
 I participated in Ludum Dare, an online 48 hour game development competition. Within that short time frame I developed a flash game in Actionscript 3.0 called [Ghosts and Gemstones](http://www.kongregate.com/games/underscorewdh/ghosts-and-gemstones) that was placed 14th out of 242 entries. 
 
 Skills
 -----
  * Python
+ * Unix
  * HTML
  * CSS
  * Git
- * Unix
  * Vim
  * Jekyll
 
