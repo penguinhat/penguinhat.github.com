@@ -12,7 +12,7 @@ You can check it out at [helpfulpenguin.com][hp]
 
 ### Fabric
 
-This was the first time I'd used fabric and I'm very happy with it. Being able to deploy with `fab pull deploy -R web` is a lot easier than manually pulling git repositiories and mucking about with servers.
+This was the first time I'd used fabric and I'm very happy with it. Being able to deploy with `fab pull deploy -R web` is a lot easier than manually pulling git repositories and mucking about with servers.
 
 However, one thing I did find out the hard way is that you have to be careful to always run the python executable provided by virtualenv and not the system python. When I first tried to use fabric to run django management commands I tried to do 
 
@@ -29,7 +29,7 @@ However, that isn't anything to do with Fabric, it's just me being stupid. If yo
 
 ### Using Linode
 
-Linode are a great hosting company. Their StackScrips made setting up the a secure live server really quick and simple and I appreacted being able to just log into a server with a bash shell and get on with things instead of dealing with proparitry web apps like I've had to do in the past. 
+Linode are a great hosting company. Their StackScrips made setting up the a secure live server really quick and simple and I appreciated being able to just log into a server with a bash shell and get on with things instead of dealing with proprietary web apps like I've had to do in the past. 
 
 ### Using Bootstrap
 
