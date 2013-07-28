@@ -9,4 +9,12 @@
 
 .cv-keywords {
 	list-style-type: none;
+    display:inline-block;
+}
+
+.cv-keywords li {
+	float: left;
+	width: 25%;
+	min-width: 4em;
+	text-align: center;
 }

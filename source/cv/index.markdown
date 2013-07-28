@@ -30,16 +30,18 @@ I participated in an online 48 hour game development competition called Ludum Da
 Skillset
 -----
 
- * Python
- * Django
- * SQL
- * HTML
- * CSS
- * Git
- * Unix
- * Vim
- * C#
- * Java
+<ul class="cv-keywords">
+	<li>Python</li>
+	<li>Django</li>
+	<li>SQL</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>Git</li>
+	<li>Unix</li>
+	<li>Vim</li>
+	<li>C#</li>
+	<li>Java</li>
+</ul>
 
 Education
 ------
