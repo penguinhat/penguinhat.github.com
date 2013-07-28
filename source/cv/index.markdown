@@ -9,7 +9,7 @@ Overview
 
 I am a dynamic and creative software developer who is currently working for a online publishing company called [www.therealbuzzgroup.com](The Realbuzz Group) who specialise in creating content rich niche social networks using the Django web framework. I am looking for work that will enable me to make a positive difference to the company that I work for while growing as a developer.
 
-I have two years of professional experience with Python and Django, during which I was instrumental in developing and maintaining a wedding themed social network called [www.getwed.com](getwed.com) as well as creating a business administration console used by global event partners to manage custom advertisements on [www.realbuzz.com](realbuzz.com). I also worked on the rebuild of (www.my50.com)[My50], a project that was built using Django and AngularJS.
+I have two years of professional experience with Python and Django, during which I was instrumental in developing and maintaining a wedding themed social network called [www.getwed.com](getwed.com) as well as creating a business administration console used by global event partners to manage custom advertisements on [www.realbuzz.com](realbuzz.com). I also worked on the rebuild of [www.my50.com](My50), a project that was built using Django and AngularJS.
 
 Professional Experience
 ------
