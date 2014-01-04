@@ -6,20 +6,29 @@ title: William David Hunt
 Overview
 ------
 
-I am a dynamic and creative software developer who is currently working for a online publishing company called <a href='therealbuzzgroup.com'>The Realbuzz Group</a> that specialise in creating content rich niche social networks using Django. I am looking for work that will enable me to make a positive difference to the company that I work for while growing as a developer.
+I am a dynamic and creative software developer who is currently working for a fuel depot terminal company called <a href='therealbuzzgroup.com'>Multiple Card Systems</a> out of the UK Fuels office in Crewe, which is owned by the parent company <a href='http://radiuspaymentsolutions.com/'>Radius Payment Solutions</a> (formally known as UK Fuels)
 
-I have two years of professional experience with Python and Django, during which I was instrumental in developing and maintaining a wedding themed social network called <a href='getwed.com'>getwed.com</a> and worked a multitude of internal projects for The Realbuzz Group's main site, <a href='realbuzz.com'>realbuzz.com</a>.
+I have three years of professional experience with Python and Django.
 
 I have also used Java, C# and Actionscript 3 during my studies at the Manchester Metropolitan University.
 
 Professional Experience
 ------
 
-Programmer at <a href='therealbuzzgroup.com'>The Realbuzz Group</a> <span class="cv-date">July 2011 - Now</span>
+
+Web Developer at <a href='http://www.mcscardsystems.com'>MCS Card Systems</a> (owned by <a href='http://radiuspaymentsolutions.com/'>Radius Payment Solutions</a>) <span class="cv-date">Nov 2013 - Now</span>
+
+ * Worked on Total Site Manager
+ * Mantained Synapse
+
+
+Programmer at <a href='therealbuzzgroup.com'>The Realbuzz Group</a>
+
+<span class="cv-date">July 2011 - Nov 2013</span>
 
  * Developed planning tool and inspiration gallery features on <a href='getwed.com'>getwed.com</a>
- * Created a business console used to console the advert listing systems on the realbuzz.com site. These consoles are used to manage listings for global events such as
- * Currently working on backend systems for a full rebuild of the companies lagacy My50 site.
+ * Created a business console used to console the advert listing systems on the realbuzz.com site. These consoles are used to manage listings for global events.
+ * Worked on backend systems for a full rebuild of My50 site
 
 
 Personal Projects
