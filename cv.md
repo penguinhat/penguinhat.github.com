@@ -6,13 +6,16 @@ title: William David Hunt
 Overview
 ------
 
-I am a dynamic and creative software developer with three years of full stack web application development experience, specializing in the development, management, maintenance, and support of Django web applications. I am currently working for a fuel depot terminal company called <a href='mcscardsystems.com'>Multiple Card Systems</a> in Crewe, which is owned by the parent company <a href='http://radiuspaymentsolutions.com/'>Radius Payment Solutions</a>
+I am a dynamic and creative software developer with three years of full stack web application development experience, specializing in the development, management, maintenance, and support of web applications. I am currently working for a software company called <a href='http://www.planixs.com/'>Planixs</a> who produce software to manage intraday liquidity for banks.
 
 Professional Experience
 ------
 
+Software Developer at <a href='http://www.planixs.com'>Planixs</a><span class="cv-date">Nov 2016 - Now</span>
 
-Web Developer at <a href='http://www.mcscardsystems.com'>MCS Card Systems</a> (owned by <a href='http://radiuspaymentsolutions.com/'>Radius Payment Solutions</a>) <span class="cv-date">Nov 2013 - Now</span>
+ * Developed new functionality for Realiti, a web application used by major banks such as Barclays to handle intraday liquidity
+
+Web Developer at <a href='http://www.mcscardsystems.com'>MCS Card Systems</a> (owned by <a href='http://radiuspaymentsolutions.com/'>Radius Payment Solutions</a>) <span class="cv-date">Nov 2013 - Nov 2016</span>
 
  * Developed and implemented new functionality to Total Site Manager, a Python and Django- based fuel-transaction tracking web application as part of a three-member team for a fuel card terminal manufacturer. 
  * Customized application with client-requested features, which included custom import and export functionality, specialised reporting systems, and updated front ends.
@@ -39,6 +42,7 @@ I participated in Ludum Dare, an online 48 hour game development competition. Wi
 Skills
 -----
  * Python
+ * Logicblox
  * HTML
  * CSS
  * Git
