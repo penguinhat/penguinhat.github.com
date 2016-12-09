@@ -15,6 +15,6 @@ The following directories and their contents are Copyright William David Hunt. Y
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
 
-The background image is [Subtle Grey][sg] by Haris Šumić.
+The background image is [Binding Dark][sp] by Tia Newbury.
 
-[sg]: http://subtlepatterns.com/subtle-grey/
+[sp]: https://subtlepatterns.com/binding-dark/
