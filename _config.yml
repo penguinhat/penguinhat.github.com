@@ -2,3 +2,4 @@ ftp_host: williamdavidhunt.com
 ftp_dir: /williamdavidhunt
 source: .
 destination: _site
+exclude: ['CNAME', 'README.markdown']
